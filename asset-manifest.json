@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nested_React_Router_Shoes_App/static/css/main.144feee6.chunk.css",
+    "main.js": "/Nested_React_Router_Shoes_App/static/js/main.1e8a21cf.chunk.js",
+    "main.js.map": "/Nested_React_Router_Shoes_App/static/js/main.1e8a21cf.chunk.js.map",
+    "runtime-main.js": "/Nested_React_Router_Shoes_App/static/js/runtime-main.61be631f.js",
+    "runtime-main.js.map": "/Nested_React_Router_Shoes_App/static/js/runtime-main.61be631f.js.map",
+    "static/js/2.059991ff.chunk.js": "/Nested_React_Router_Shoes_App/static/js/2.059991ff.chunk.js",
+    "static/js/2.059991ff.chunk.js.map": "/Nested_React_Router_Shoes_App/static/js/2.059991ff.chunk.js.map",
+    "index.html": "/Nested_React_Router_Shoes_App/index.html",
+    "static/css/main.144feee6.chunk.css.map": "/Nested_React_Router_Shoes_App/static/css/main.144feee6.chunk.css.map",
+    "static/js/2.059991ff.chunk.js.LICENSE.txt": "/Nested_React_Router_Shoes_App/static/js/2.059991ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61be631f.js",
+    "static/js/2.059991ff.chunk.js",
+    "static/css/main.144feee6.chunk.css",
+    "static/js/main.1e8a21cf.chunk.js"
+  ]
+}
